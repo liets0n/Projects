@@ -1,0 +1,73 @@
+                            Como Resolver uma Equação do Segundo Grau
+
+    A equação do segundo grau recebe esse nome porque é uma equação polinomial cujo termo de maior grau está elevado ao quadrado. Também chamada de equação quadrática, é representada por:
+
+ax2 + bx + c = 0
+
+    Numa equação do 2º grau, o x é a incógnita e representa um valor desconhecido. Já as letras a, b e c são chamadas de coeficientes da equação.
+
+    Os coeficientes são números reais e o coeficiente a tem que ser diferente de zero, pois do contrário passa a ser uma equação do 1º grau.
+
+    Resolver uma equação de segundo Grau, significa buscar valores reais de x, que tornam a equação verdadeira. Esses valores são denominados raízes da equação.
+
+    Uma equação quadrática possui no máximo duas raízes reais.
+
+Fórmula de Bhaskara
+
+    Quando uma equação do segundo grau é completa, usamos a Fórmula de Bhaskara para encontrar as raízes da equação.
+
+A fórmula é apresentada abaixo:
+
+x igual a numerador menos b mais ou menos raiz quadrada de incremento sobre denominador 2. a fim da fração
+
+Fórmula do Delta
+    Na fórmula de Bhaskara, aparece a letra grega Δ (delta), que é chamada de discriminante da equação, pois de acordo com o seu valor é possível saber qual o número de raízes que a equação terá.
+
+Para calcular o delta usamos a seguinte fórmula:
+
+incremento igual a b ao quadrado menos 4. a. c
+
+Passo a Passo
+    Para resolver uma equação do 2º grau, usando a fórmula de Bhaskara, devemos seguir os seguintes passos:
+
+1º Passo: Identificar os coeficientes a, b e c.
+
+    Nem sempre os termos da equação aparecem na mesma ordem, portanto, é importante saber identificar os coeficientes, independente da sequência em que estão.
+
+    O coeficiente a é o número que está junto com o x2, o b é o número que acompanha o x e o c é o termo independente, ou seja, o número que aparece sem o x.
+
+2º Passo: Calcular o delta.
+
+    Para calcular as raízes é necessário conhecer o valor do delta. Para isso, substituímos as letras na fórmula pelos valores dos coeficientes.
+
+    Podemos, a partir do valor do delta, saber previamente o número de raízes que terá a equação do 2º grau. Ou seja, se o valor de Δ for maior que zero (Δ > 0), a equação terá duas raízes reais e distintas.
+
+    Se ao contrário, delta for menor que zero (Δ < 0), a equação não apresentará raízes reais e se for igual a zero (Δ = 0), a equação apresentará somente uma raiz.
+
+3º Passo: Calcular as raízes.
+
+    Se o valor encontrado para delta for negativo, não precisa fazer mais nenhum cálculo e a resposta será que a equação não possui raízes reais.
+
+    Caso o valor do delta seja igual ou maior que zero, devemos substituir todas as letras pelos seus valores na fórmula de Bhaskara e calcular as raízes.
+
+Exercício Resolvido
+Determine as raízes da equação 2x2 - 3x - 5 = 0
+
+Solução:
+
+Para resolver, primeiro devemos identificar os coeficientes, assim temos:
+a = 2
+b = - 3
+c = - 5
+
+    Agora, podemos encontrar o valor do delta. Devemos tomar cuidado com as regras de sinais e lembrar que primeiro devemos resolver a potenciação e a multiplicação e depois a soma e a subtração.
+
+Δ = (- 3)2 - 4 . (- 5) . 2 = 9 +40 = 49
+
+    Como o valor encontrado é positivo, encontraremos dois valores distintos para as raízes. Assim, devemos resolver a fórmula de Bhaskara duas vezes. Temos então:
+
+    x com 1 subscrito igual a numerador menos parêntese esquerdo menos 3 parêntese direito espaço mais raiz quadrada de 49 sobre denominador 2.2 fim da fração igual a numerador mais 3 mais 7 sobre denominador 4 fim da fração igual a 10 sobre 4 igual a 5 sobre 2
+
+    x com 2 subscrito igual a numerador menos parêntese esquerdo menos 3 parêntese direito espaço menos raiz quadrada de 49 sobre denominador 2.2 fim da fração igual a numerador mais 3 menos 7 sobre denominador 4 fim da fração igual a numerador menos 4 sobre denominador 4 fim da fração igual a menos 1
+
+Assim, as raízes da equação 2x2 - 3x - 5 = 0 são x = 5/2 e x = - 1.
