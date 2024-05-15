@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #212529;
+}
+
+main.principal {
+    height: 500px;
+    width: 550px;
+    margin: 150px auto;
+}
+
+main div.inputs-top {
+    display: flex;
+    justify-content: space-between;
+}
+
+main div.painel {
+    background-color: #fff;
+    width: 400px;
+    height: 300px;
+    margin: 10px auto;
+}
+
+main div.inputs-bottom {
+    display: flex;
+    justify-content: space-between;
+}
+
+div.alone {
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 250px;
+}
+
+div.alone label {
+    margin-right: 10px;
+    font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+    color: #fff;
+}
+
+div.alone input.bottom-allBorder {
+    width: 100px;
+    height: 25px;
+    font-size: 16px;
+}
+
+input[type="number"] {
+    width: 40px;
+
+}
+
+button.btn_reset {
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    position: absolute;
+    border-style: none;
+    margin-top: -470px;
+    margin-left: 1540px;
+    background-color: rgb(211, 38, 38);
+    border: 1px solid rgb(211, 38, 38);
+}
+
+div.code {
+    background-color: rgb(8, 8, 8);
+    height: 195px;
+    width: 600px;
+    margin: -170px auto;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    text-shadow: rgba(0, 0, 0, 0.3) 0px 1px;
+    font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+    
+}
+
+div.code span.code {
+    color: rgb(57, 165, 197);
+}
+
+div.code span.ponto, span.pixel{
+    color: #f92672;
+}
+
+div.code span.numero {
+    color: rgb(135, 55, 151);
+}
+
+div.code span.pontoVirgula {
+    color: #fff;
+}
+
+
+/*dadads*/
+
+div.code span.comentario {
+    color: rgb(54, 48, 92);
+}

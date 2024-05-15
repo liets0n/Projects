@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Lietson dos santos">
+    <meta name="description" content="">
+    <meta name="keywords" content="set border, border, styled border css, css borderw">
+    <title>setborder</title>
+
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    
+
+    <div class="alone">
+        <label for="allBorder">Todos Inputs </label>
+        <input type="number" name="input-Allborder" id="allBorder" class="bottom-allBorder" min="0" max="100" value="0">
+    </div>
+
+    <main class="principal">
+    
+        <div class="inputs-top">
+            <input type="number" name="input-top-left" id="top-left" class="top-left" min="0" max="100" value="0">
+            <input type="number" name="input-top-right" id="top-right" class="top-right" min="0" max="100" value="0">
+        </div>
+    
+        <div class="painel"></div>
+
+        <div class="inputs-bottom">
+            <input type="number" name="input-top-left" id="bottom-left" class="bottom-left" min="0" max="100" value="0">
+            <input type="number" name="input-top-right" id="bottom-right" class="bottom-right" min="0" max="100" value="0">
+        </div>
+    
+    </main>
+
+
+    <button class="btn_reset">Reset</button>
+
+    <div class="code">
+        <p><span class="code">border-top-left-radius</span><span class="ponto">: </span><span class="numero valorTopLeft">0</span><span class="pixel">px</span><span class="pontoVirgula">;</span><span class="comentario"> # Borda superior esquerda</span></p>
+        <p><span class="code">border-top-right-radius</span><span class="ponto">: </span><span class="numero valorTopRight">0</span><span class="pixel">px</span><span class="pontoVirgula">;</span><span class="comentario"> # Borda superior direita</span></p>
+        <p><span class="code">border-bottom-left-radius</span><span class="ponto">: </span><span class="numero valorBottomLeft">0</span><span class="pixel">px</span><span class="pontoVirgula">;</span><span class="comentario"> # Borda inferior esquerda</span></p>
+        <p><span class="code">border-bottom-right-radius</span><span class="ponto">: </span><span class="numero valorBottomRight">0</span><span class="pixel">px</span><span class="pontoVirgula">;</span><span class="comentario"> # Borda inferior direita</span></p>
+        <p><span class="code">border-radius</span><span class="ponto">: </span><span class="numero valorTopLefts">0</span><span class="pixel">px</span> <span class="numero valorTopRights">0</span><span class="pixel">px</span> <span class="numero valorBottomRights">0</span><span class="pixel">px</span> <span class="numero valorBottomLefts">0</span><span class="pixel">px</span><span  class="pontoVirgula">;</span> <span class="comentario"># Forma simplificada</span></p>
+        <p><span class="code">border-radius</span><span class="ponto">: <span class="numero valorAllBorder">0</span><span>px</span><span>;</span><span class="comentario"> # Adicionando o mesmo valor para todas as bordas</span></p>
+    </div>
+
+    <script src="./js/index.js"></script>
+</body>
+</html>
