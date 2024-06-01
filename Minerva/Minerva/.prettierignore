@@ -1,0 +1,8 @@
+# Ignore artifacts:
+buildcoverage
+!.build
+.build/*
+!.build/test.js
+/*.js
+node_modules
+dist

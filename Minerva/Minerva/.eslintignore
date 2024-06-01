@@ -1,0 +1,6 @@
+!.build
+.build/*
+!.build/test.js
+/*.js
+node_modules
+dist

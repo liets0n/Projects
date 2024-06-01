@@ -1,0 +1,44 @@
+import styled from 'styled-components'
+
+export const Wrapper = styled.tr`
+  width: 100%;
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+  .column__line {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: auto;
+  }
+
+  .column__line--1 {
+    width: 16rem;
+
+    .info {
+      margin-left: 1rem;
+    }
+  }
+
+  .column__line--2 {
+    width: 8rem;
+  }
+
+  .column__line--3 {
+    width: 9rem;
+  }
+
+  .column__line--4 {
+    width: 10rem;
+  }
+
+  .column__line--5 {
+    width: 7rem;
+  }
+
+  .column__line--6 {
+    width: 6rem;
+  }
+`
