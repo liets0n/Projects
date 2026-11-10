@@ -1,0 +1,69 @@
+{
+  "translation": {
+    "Home__section_1--title": "One step closer to your new job",
+    "Home__section_1--description": "Explore thousands of job opportunities with all the information you need. it's your future. Come find him. Manage all your application work from start to finish.",
+    "Home__section_1--inputCharge": "Office",
+    "Home__section_1--inputLocation": "Location",
+    "Home__section_1--inputBtnSubmit": "Search for vacancy",
+    "Home__section_1--illustration": "Young Man Using Computer illustration",
+
+    "Home__section_2--title": "Jobs",
+    "Home__section_2--description": "+100 vacancies every day",
+
+    "Home__section_3--title": "Why use our platform",
+    "Home__section_3--description": "Our platform offers the best opportunities for users by offering specific jobs to users according to their skills and salary preference in addition to",
+    "Home__section_3--ListFirstItem": "Reliability",
+    "Home__section_3--ListSecondItem": "Current Vacancies",
+    "Home__section_3--ListThirdItem": "Diversity",
+    "Home__section_3--ListForthItem": "Accessibility",
+    "Home__section_3--ListFifthItem": "Simplified application",
+    "Home__section_3--illustration": "Couple Using Computer illustration",
+
+    "Home__section_4--title": "With just a few simple steps, find your dream job",
+    "Home__section_4--description": "Follow the steps to set up your account to find a job",
+    "Home__section_4--blockTitleOne": "Registration",
+    "Home__section_4--blockTitleOneDescription": "Register your personal identity on this platform to access resources",
+    "Home__section_4--blockTitleTwo": "Edit your profile",
+    "Home__section_4--blockTitleTwoDescription": "Edit and complete your ID to make it easier for job recruiters to find you",
+    "Home__section_4--blockTitleThree": "Upload your resume",
+    "Home__section_4--blockTitleThreeDescription": "Upload the latest CV to make the selection process easier",
+    "Home__section_4--blockTitleFour": "Search and find employment",
+    "Home__section_4--blockTitleFourDescription": "Explore the best job opportunities and apply",
+
+    "Home__section_5--title": "We are the way to the future",
+    "Home__section_5--listItemOne": "Unique job openings from startups and tech companies you won't find anywhere",
+    "Home__section_5--listItemTwo": "You will find vacancies for young apprentices or people who already have advanced technical knowledge",
+    "Home__section_5--listItemThree": "If you are a company, find the best candidates to be part of your team",
+    "Home__section_5--illustration": "Boy Studying Illustration",
+
+    "Home__section_6--title": "Companies that believe in our services",
+    "Home__section_6--subtitle": "Partners &",
+
+    "Footer__selector--portuguese": "Português",
+    "Footer__selector--english": "English",
+    "Footer__selector--russian": "Русский",
+    "Footer__selector--spanish": "Español",
+
+    "Footer__listOne--title": "Explore",
+    "Footer__listOne--itemOne": "Search jobs",
+    "Footer__listOne--itemTwo": "Resume search",
+    "Footer__listOne--itemThree": "Salary survey",
+    "Footer__listOne--itemFour": "Advertise vacancies",
+
+    "Footer__listTwo--title": "About",
+    "Footer__listTwo--itemOne": "About us",
+    "Footer__listTwo--itemTwo": "Work with us",
+    "Footer__listTwo--itemThree": "Discover all solutions",
+
+    "Footer__listThree--title": "Help",
+    "Footer__listThree--itemOne": "FAQs",
+    "Footer__listThree--itemTwo": "Contacts",
+    "Footer__copyRight": "All rights reserved",
+
+    "Footer__Policy": "Privacy Policy",
+    "Footer__Term": "Terms & Conditions",
+
+    "menu--signInBtn": "Sign In",
+    "menu--signUpBtn": "Sign Up"
+  }
+}

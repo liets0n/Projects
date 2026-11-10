@@ -1,0 +1,69 @@
+{
+  "translation": {
+    "Home__section_1--title": "На шаг ближе к новой работе",
+    "Home__section_1--description": "Исследуйте тысячи вакансий со всей необходимой информацией. это ваше будущее. Найди его. Управляйте всей работой вашего приложения от начала до конца.",
+    "Home__section_1--inputCharge": "Офис",
+    "Home__section_1--inputLocation": "Расположение",
+    "Home__section_1--inputBtnSubmit": "поиск вакансии",
+    "Home__section_1--illustration": "Иллюстрация молодой человек с помощью компьютера",
+
+    "Home__section_2--title": "Работа",
+    "Home__section_2--description": "+100 вакансий каждый день",
+
+    "Home__section_3--title": "Зачем использовать нашу платформу",
+    "Home__section_3--description": "Наша платформа предлагает наилучшие возможности для пользователей, предлагая пользователям конкретные вакансии в соответствии с их навыками и предпочтениями в отношении заработной платы в дополнение к",
+    "Home__section_3--ListFirstItem": "надежность",
+    "Home__section_3--ListSecondItem": "Текущие вакансии",
+    "Home__section_3--ListThirdItem": "Разнообразие",
+    "Home__section_3--ListForthItem": "Доступность",
+    "Home__section_3--ListFifthItem": "упрощенное приложение",
+    "Home__section_3--illustration": "Иллюстрационная пара с помощью компьютера",
+
+    "Home__section_4--title": "Всего за несколько простых шагов найдите работу своей мечты",
+    "Home__section_4--description": "Следуйте инструкциям по настройке учетной записи, чтобы найти работу",
+    "Home__section_4--blockTitleOne": "Регистрация",
+    "Home__section_4--blockTitleOneDescription": "Зарегистрируйте свою личность на этой платформе, чтобы получить доступ к ресурсам",
+    "Home__section_4--blockTitleTwo": "Редактировать профиль",
+    "Home__section_4--blockTitleTwoDescription": "Отредактируйте и заполните свой идентификатор, чтобы рекрутерам было проще вас найти.",
+    "Home__section_4--blockTitleThree": "загрузить свое резюме",
+    "Home__section_4--blockTitleThreeDescription": "Загрузите последнее резюме, чтобы упростить процесс отбора",
+    "Home__section_4--blockTitleFour": "Искать и найти работу",
+    "Home__section_4--blockTitleFourDescription": "Узнайте о лучших возможностях трудоустройства и подайте заявку",
+
+    "Home__section_5--title": "Мы путь в будущее",
+    "Home__section_5--listItemOne": "Уникальные вакансии от стартапов и технологических компаний, которых вы нигде не найдете",
+    "Home__section_5--listItemTwo": "Вы найдете вакансии для молодых учеников или людей, которые уже имеют передовые технические знания",
+    "Home__section_5--listItemThree": "Если вы компания, найдите лучших кандидатов в свою команду",
+    "Home__section_5--illustration": "мальчик изучает иллюстрацию",
+
+    "Home__section_6--title": "Компании, которые верят в наши услуги",
+    "Home__section_6--subtitle": "партнеры и",
+
+    "Footer__selector--portuguese": "Português",
+    "Footer__selector--english": "English",
+    "Footer__selector--russian": "Русский",
+    "Footer__selector--spanish": "Español",
+
+    "Footer__listOne--title": "исследовать",
+    "Footer__listOne--itemOne": "поиск работы",
+    "Footer__listOne--itemTwo": "возобновить поиск",
+    "Footer__listOne--itemThree": "обследование заработной платы",
+    "Footer__listOne--itemFour": "рекламировать вакансии",
+
+    "Footer__listTwo--title": "О",
+    "Footer__listTwo--itemOne": "О нас",
+    "Footer__listTwo--itemTwo": "Работать с нами",
+    "Footer__listTwo--itemThree": "Откройте для себя все решения",
+
+    "Footer__listThree--title": "Помощь",
+    "Footer__listThree--itemOne": "Часто задаваемые вопросы",
+    "Footer__listThree--itemTwo": "Контакты",
+    "Footer__copyRight": "Все права защищены",
+
+    "Footer__Policy": "Политика конфиденциальности",
+    "Footer__Term": "Условия",
+
+    "menu--signInBtn": "войти",
+    "menu--signUpBtn": "зарегистрироваться"
+  }
+}

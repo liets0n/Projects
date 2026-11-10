@@ -1,0 +1,69 @@
+{
+  "translation": {
+    "Home__section_1--title": "Un paso más cerca de su nuevo trabajo",
+    "Home__section_1--description": "Explore miles de oportunidades de trabajo con toda la información que necesita. Es su futuro. Ven a buscarlo. Administre todo su trabajo de aplicación de principio a fin",
+    "Home__section_1--inputCharge": "Oficina",
+    "Home__section_1--inputLocation": "Ubicación",
+    "Home__section_1--inputBtnSubmit": "Buscar vacantes",
+    "Home__section_1--illustration": "Joven usando ilustración de computadora",
+
+    "Home__section_2--title": "Trabajos",
+    "Home__section_2--description": "+100 vacantes todos los días",
+
+    "Home__section_3--title": "Por qué usar nuestra plataforma",
+    "Home__section_3--description": "Nuestra plataforma ofrece las mejores oportunidades para los usuarios al ofrecer trabajos específicos a los usuarios de acuerdo con sus habilidades y preferencia salarial además de",
+    "Home__section_3--ListFirstItem": "Fiabilidad",
+    "Home__section_3--ListSecondItem": "Ofertas de Empleo",
+    "Home__section_3--ListThirdItem": "Diversidad",
+    "Home__section_3--ListForthItem": "Accesibilidad",
+    "Home__section_3--ListFifthItem": "Aplicación simplificada",
+    "Home__section_3--illustration": "Pareja usando la ilustración de computadora",
+
+    "Home__section_4--title": "Con solo unos pocos pasos simples, encuentre el trabajo de sus sueños",
+    "Home__section_4--description": "Siga los pasos para configurar su cuenta para encontrar un trabajo",
+    "Home__section_4--blockTitleOne": "Registro",
+    "Home__section_4--blockTitleOneDescription": "Registre su identidad personal en esta plataforma para acceder a los recursos",
+    "Home__section_4--blockTitleTwo": "Edite su perfil",
+    "Home__section_4--blockTitleTwoDescription": "Edite y complete su identificación para que sea más fácil para los reclutadores de trabajo encontrarlo",
+    "Home__section_4--blockTitleThree": "Sube tu resumen",
+    "Home__section_4--blockTitleThreeDescription": "Cargue el último CV para facilitar el proceso de selección",
+    "Home__section_4--blockTitleFour": "Buscar y encontrar empleo",
+    "Home__section_4--blockTitleFourDescription": "Explore las mejores oportunidades de trabajo y solicite",
+
+    "Home__section_5--title": "Somos el camino hacia el futuro",
+    "Home__section_5--listItemOne": "Aberturas de trabajo únicas de nuevas empresas y compañías tecnológicas que no encontrará en ningún lugar",
+    "Home__section_5--listItemTwo": "Encontrará vacantes para jóvenes aprendices o personas que ya tienen conocimiento técnico avanzado",
+    "Home__section_5--listItemThree": "Si usted es una empresa, encuentre los mejores candidatos para ser parte de su equipo",
+    "Home__section_5--illustration": "Chico estudiando ilustración",
+
+    "Home__section_6--title": "Empresas que creen en nuestros servicios",
+    "Home__section_6--subtitle": "Socios &",
+
+    "Footer__selector--portuguese": "Português",
+    "Footer__selector--english": "English",
+    "Footer__selector--russian": "Русский",
+    "Footer__selector--spanish": "Español",
+
+    "Footer__listOne--title": "Explorar",
+    "Footer__listOne--itemOne": "Buscar empleos",
+    "Footer__listOne--itemTwo": "Búsqueda de currículum",
+    "Footer__listOne--itemThree": "Encuesta salarial",
+    "Footer__listOne--itemFour": "Advertir vacantes",
+
+    "Footer__listTwo--title": "Sobre",
+    "Footer__listTwo--itemOne": "Sobre nosotros",
+    "Footer__listTwo--itemTwo": "Trabaja con nosotros",
+    "Footer__listTwo--itemThree": "Descubra todas las soluciones",
+
+    "Footer__listThree--title": "Ayuda",
+    "Footer__listThree--itemOne": "Preguntas frecuentes",
+    "Footer__listThree--itemTwo": "Contactos",
+    "Footer__copyRight": "All Derechos reservados",
+
+    "Footer__Policy": "Política de privacidad",
+    "Footer__Term": "Términos y condiciones",
+
+    "menu--signInBtn": "Iniciar sesión",
+    "menu--signUpBtn": "Inscribirse"
+  }
+}
